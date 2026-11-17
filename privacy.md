@@ -5,15 +5,17 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: 15 November 2026
+Last updated: 17 November 2026
 
 TrueStatus is an Android app made by Veilyo Studio ("we", "us"). It gets your videos ready for WhatsApp Status and puts them in a private WhatsApp group, so you can post them from there. This policy explains what happens to your information when you use it.
 
-The short version: TrueStatus has no servers and no accounts. Your videos are processed on your phone and go from your phone to your own WhatsApp. We never receive your videos, your chats, your contacts or your phone number.
+The short version: TrueStatus has no servers and no accounts. Your videos and photos are processed on your phone and go from your phone to your own WhatsApp. We never receive your videos, your photos, your chats, your contacts or your phone number.
 
 ## What TrueStatus handles, and where it stays
 
 **Videos you pick.** You choose a video with Android's own picker. TrueStatus only gets the videos you pick, never the rest of your gallery. It prepares the video on your phone (changing its size, quality, length if you trim it, and adding the TrueStatus mark on free videos). Working copies are kept in the app's private storage and replaced the next time you send. If you tap "Save a copy to gallery", a copy is saved to your phone's Movies folder.
+
+**Photos you pick.** If you send a photo, it's handled the same way as a video: you pick it with Android's picker, TrueStatus prepares it on your phone, and it goes from your phone to your own WhatsApp.
 
 **Your WhatsApp link.** To put videos into WhatsApp, TrueStatus links to your WhatsApp account as a linked device, the same way WhatsApp on a computer does. It connects straight from your phone to WhatsApp's servers. The keys that keep this link working are stored only in the app's private storage on your phone.
 
@@ -30,7 +32,7 @@ While linked, TrueStatus:
 
 ## Who else is involved
 
-**WhatsApp (Meta).** The videos and captions you send, and your phone number when linking, go to WhatsApp, because that's where you asked for them to go. WhatsApp handles them under its own terms and privacy policy. TrueStatus is not made by, or connected to, WhatsApp or Meta.
+**WhatsApp (Meta).** The videos, photos and captions you send, and your phone number when linking, go to WhatsApp, because that's where you asked for them to go. WhatsApp handles them under its own terms and privacy policy. TrueStatus is not made by, or connected to, WhatsApp or Meta.
 
 **Google Play.** If you buy TrueStatus forever, Google Play handles the payment. We don't see your card or payment details. Google tells the app whether your Google account owns the purchase, so it works again after a reinstall or on a new phone. Google handles this under its own privacy policy.
 
