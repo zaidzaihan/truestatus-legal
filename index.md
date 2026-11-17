@@ -1,9 +1,9 @@
 ---
 layout: default
-title: StatusCraft
+title: TrueStatus
 ---
 
-# StatusCraft
+# TrueStatus
 
 Get your videos ready for WhatsApp Status, right on your phone. Made by Veilyo Studio.
 
