@@ -5,7 +5,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: 17 November 2026
+Last updated: 18 November 2026
 
 TrueStatus is an Android app made by Veilyo Studio ("we", "us"). It gets your videos ready for WhatsApp Status and puts them in a private WhatsApp group, so you can post them from there. This policy explains what happens to your information when you use it.
 
@@ -34,7 +34,7 @@ While linked, TrueStatus:
 
 **WhatsApp (Meta).** The videos, photos and captions you send, and your phone number when linking, go to WhatsApp, because that's where you asked for them to go. WhatsApp handles them under its own terms and privacy policy. TrueStatus is not made by, or connected to, WhatsApp or Meta.
 
-**Google Play.** If you buy TrueStatus forever, Google Play handles the payment. We don't see your card or payment details. Google tells the app whether your Google account owns the purchase, so it works again after a reinstall or on a new phone. Google handles this under its own privacy policy.
+**Google Play.** If you buy TrueStatus forever, Google Play handles the payment. We don't see your card or payment details. Google tells the app whether your Google account owns the purchase, so it works again after a reinstall or on a new phone. The Google Play part of the app also sends Google its own technical diagnostics about how purchases are working. That goes straight to Google, never to us. Google handles all of this under its own privacy policy.
 
 That's everyone. TrueStatus has no analytics, no crash reporting service, no advertising and no tracking. If we ever add ads to the free version, we will update this policy and tell you in the app before it happens.
 
