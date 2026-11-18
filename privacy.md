@@ -5,11 +5,11 @@ title: Privacy Policy
 
 # Privacy Policy
 
-Last updated: 18 November 2026
+Last updated: 19 November 2026
 
 TrueStatus is an Android app made by Veilyo Studio ("we", "us"). It gets your videos ready for WhatsApp Status and puts them in a private WhatsApp group, so you can post them from there. This policy explains what happens to your information when you use it.
 
-The short version: TrueStatus has no servers and no accounts. Your videos and photos are processed on your phone and go from your phone to your own WhatsApp. We never receive your videos, your photos, your chats, your contacts or your phone number.
+The short version: TrueStatus has no accounts. Your videos and photos are processed on your phone and go from your phone to your own WhatsApp. We never receive your videos, your photos, your chats, your contacts or your phone number. Our only server counts friend invites, using a scrambled ID that can't be traced back to you. Free videos can show Google ads.
 
 ## What TrueStatus handles, and where it stays
 
@@ -36,24 +36,30 @@ While linked, TrueStatus:
 
 **Google Play.** If you buy TrueStatus forever, Google Play handles the payment. We don't see your card or payment details. Google tells the app whether your Google account owns the purchase, so it works again after a reinstall or on a new phone. The Google Play part of the app also sends Google its own technical diagnostics about how purchases are working. That goes straight to Google, never to us. Google handles all of this under its own privacy policy.
 
-That's everyone. TrueStatus has no analytics, no crash reporting service, no advertising and no tracking. If we ever add ads to the free version, we will update this policy and tell you in the app before it happens.
+**Ads (Google AdMob).** People who haven't bought TrueStatus Pro may see ads, but only once their free videos are used up: a short ad after sending a video with the mark, or an ad they choose to watch to send a video without it. Ads come from Google AdMob. To show and measure ads, Google collects your device's advertising ID, IP address, rough location and how you interact with ads, under [Google's privacy policy](https://policies.google.com/privacy) and its [use of data from partners' apps](https://policies.google.com/technologies/partner-sites). In the EEA, UK and Switzerland, the app asks for your consent first, and you can change your choice anytime in Settings > Ad privacy choices. You can reset or delete your advertising ID in Android's settings. Pro owners never see ads.
+
+**Friend invites (our referral server).** Settings > Share TrueStatus shares a Google Play link with your invite code in it. When a friend installs from it, Google Play hands that code to their app, and you both get extra videos on us. To keep count, the app sends our server (run on Cloudflare) a scrambled form of Android's ID for TrueStatus on your phone. It's a one-way hash, so it can't be turned back into the real ID or linked to your name, number, Google account or WhatsApp. The server stores only that hash, your invite code, the code you joined with (if any) and when. Cloudflare processes these requests on our behalf, and like any web server it sees your IP address, which we don't store.
+
+That's everyone. TrueStatus has no analytics, no crash reporting service and no tracking of its own.
 
 ## Permissions the app asks for
 
-- **Internet:** to connect to WhatsApp and Google Play.
+- **Internet:** to connect to WhatsApp, Google Play, Google's ads and our referral server.
 - **Notifications:** to show sending progress while you're in another app. You can say no; sending still works.
 - **Foreground service:** to keep sending when you switch to WhatsApp.
 - **Storage (Android 9 and older only):** to save a copy to your gallery when you ask.
 
 ## Keeping and deleting your information
 
-Because everything stays on your phone, you're in control of it:
+Almost everything stays on your phone, so you're in control of it:
 
 - **Unlink** in TrueStatus's Settings, or in WhatsApp under Linked devices. This ends the link and deletes its keys from the app.
 - **Uninstall** TrueStatus, or clear its storage in Android settings, to delete everything it kept on your phone.
 - Videos already sent to your TrueStatus group stay in your WhatsApp until you delete them there.
 
-We can't delete or hand over your data on request, because we never have it.
+- Your invite record (the scrambled ID and invite code) stays on our referral server so invites can't be claimed twice. To have it deleted, email us your invite code (shown in your share link).
+
+Apart from that record, we can't delete or hand over your data on request, because we never have it.
 
 ## Children
 
